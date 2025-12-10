@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "All the codes for the numerical calculations in ''Giant atom with disorders: Effects from imperfect couplings''"
+authors:
+- family-names: "Han"
+  given-names: "Muming"
+  orcid: "https://orcid.org/0009-0004-2423-2348"
+- family-names: "Guo"
+  given-names: "Lingzhen"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Codes for giant atom with disorders"
+version: 1.0.2
+doi: 10.5281/zenodo.17879356
+date-released: 2025-12-10
+url: "https://github.com/github-linguist/linguist"
